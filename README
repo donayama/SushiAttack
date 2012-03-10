@@ -1,0 +1,20 @@
+QuickTiGame2d sample code "SushiAttack" (C)donayama(KITAO Masato)
+
+-Sushi Icon Resources (C) YASURAGIAN (http://www.yasuragian.com/)
+-Sound Effect Resource (C) On-Jin(http://www.yen-soft.com/ssse/)
+    - koko.mp3 (http://www.yen-soft.com/ssse/sound/botan/botan_b32.mp3)
+    - paku.mp3 (http://www.yen-soft.com/ssse/sound/se/b/hito_ge_paku01.mp3)
+    - toss.mp3 (http://www.yen-soft.com/ssse/sound/se/b/hito_ge_tsukamu_gashi03.mp3)
+
+
+----------------------------------
+Stuff our legal folk make us say:
+
+Appcelerator, Appcelerator Titanium and associated marks and logos are 
+trademarks of Appcelerator, Inc. 
+
+Titanium is Copyright (c) 2009-2010 by Appcelerator, Inc. All Rights Reserved.
+
+Titanium is licensed under the Apache Public License (Version 2). Please
+see the LICENSE file for the full license.
+
